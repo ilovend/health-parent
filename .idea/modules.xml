@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/health-backend/health-backend.iml" filepath="$PROJECT_DIR$/health-backend/health-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-common/health-common.iml" filepath="$PROJECT_DIR$/health-common/health-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-interface/health-interface.iml" filepath="$PROJECT_DIR$/health-interface/health-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/health-parent.iml" filepath="$PROJECT_DIR$/.idea/health-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/health-service-provider/health-service-provider.iml" filepath="$PROJECT_DIR$/health-service-provider/health-service-provider.iml" />
+    </modules>
+  </component>
+</project>
